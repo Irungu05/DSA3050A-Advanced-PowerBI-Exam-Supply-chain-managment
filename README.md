@@ -3,7 +3,7 @@
 # Supply Chain & Revenue Analytics Dashboard
 **DataCo Global Operations Performance Analysis**
 
-## 👤 Student Information
+##  Student Information
 * **Name:** Angela Irungu
 * **Admission Number:** 669289
 * **Course Code:** DSA 3050A 
@@ -49,5 +49,5 @@ The analysis utilizes the **DataCo Smart Supply Chain** dataset.
 * **Market Revenue:** The **Europe** market is the top performer, contributing **$11M** to total sales.
 * **Segment Dominance:** The **Consumer segment** drives the majority of revenue, accounting for **$19.1M (51.91%)**.
 
-## 🏁 Conclusion
+## Conclusion
 The implemented Star Schema and advanced DAX measures provide a scalable and reproducible BI solution. By addressing the identified logistics bottlenecks in specific high-risk regions, DataCo can significantly improve customer satisfaction and operational margins.
