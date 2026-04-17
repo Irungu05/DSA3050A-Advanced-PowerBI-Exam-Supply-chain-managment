@@ -20,7 +20,11 @@ The analysis utilizes the **DataCo Smart Supply Chain** dataset.
 * **Transactional Volume:** 180,000 rows of data.
 * **Key Metrics:** Includes Sales, Profit, Shipping Days, and Order Status.
 * **Scope:** Global coverage including 5 Markets and 3 Customer Segments.
+  
+* Source: Kaggle - DataCo Smart Supply Chain Dataset
 
+* Citation: Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V5, doi: 10.17632/8gx2fvg2k6.5.
+  
 ##  Tools Used
 * **Power BI Desktop:** For data modeling and visualization.
 * **Power Query:** For data cleaning and ETL processes.
